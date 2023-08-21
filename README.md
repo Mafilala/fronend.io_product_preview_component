@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](git@github.com:Mafilala/fronend.io_product_preview_component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://magical-dasik-9ba684.netlify.app/)
 
 ## My process
 
